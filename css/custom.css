@@ -1,0 +1,20 @@
+.form-check{
+    border: 5px solid red;
+}
+
+.form-factor{
+    border-style: dashed;
+}
+
+.areaText{
+    width: 95%;
+}
+
+button .btn-isian-riwayat{
+    padding: 5px;
+    margin: 5px;
+}
+
+p > .footext{
+    margin-left: 12px;
+}
